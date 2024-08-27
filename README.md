@@ -1,4 +1,4 @@
-# MATLAB ODE Solution Plotter
+# MATLAB ODE solver to plot damping waves
 
 ## Overview
 
